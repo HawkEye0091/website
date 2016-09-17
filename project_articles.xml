@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projects>
-	<MMO category="Thesis or whatever">
+	<article category="Thesis or whatever">
 		<title>On the Creation of Magic Spells</title>
 		<author>your name</author>
 		<last updated>date that the subject was written or overwritten</last updated>
@@ -10,4 +10,5 @@
 
     			First, some context must be established. In Project Manylands, most magic will be cast using magic circles. Not magic circles carved in the ground of course, but ones you conjure using your will, imagination, knowledge, and magic power (but we'll get to the lore at a later date). These circles are ranked using a basic system, at least for now. Going from least to most powerful, Low-Class, Medium-Class, High-Class, and Ultimate-Class. Low-Class circles can do damage ranging from a hard punch, to being squashed by a Titan. Medium-Class circles can do damage ranging from being hit in a vital area by a rapier going a significant fraction of the speed of sound, to being the focus of an endgame boss for about five (5) seconds without a healer. High-Class circles can do damage ranging from being hit by a small nuke to being thrust into the Great Beyond for half a second. Ultimate-Class circles can do damage ranging from being erased from time-and-space and up.
     		</content>
+    </article>
 </projects>
