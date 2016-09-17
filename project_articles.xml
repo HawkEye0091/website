@@ -6,9 +6,40 @@
 		<last updated>date that the subject was written or overwritten</last updated>
 		<summary>what is the subject about</summary>
 		<content>
-			Magic is an essential aspect to any fantasy game. One of the most interesting parts of magic, is the magic system itself. Not what you can do with it, or how powerful it is, but how it works. This article is about breaking down a small portion of Project Manylands preliminary magic system. Specifically, the mechanics behind the creation of spells.
+			On the Creation of Magic Spells
 
-    			First, some context must be established. In Project Manylands, most magic will be cast using magic circles. Not magic circles carved in the ground of course, but ones you conjure using your will, imagination, knowledge, and magic power (but we'll get to the lore at a later date). These circles are ranked using a basic system, at least for now. Going from least to most powerful, Low-Class, Medium-Class, High-Class, and Ultimate-Class. Low-Class circles can do damage ranging from a hard punch, to being squashed by a Titan. Medium-Class circles can do damage ranging from being hit in a vital area by a rapier going a significant fraction of the speed of sound, to being the focus of an endgame boss for about five (5) seconds without a healer. High-Class circles can do damage ranging from being hit by a small nuke to being thrust into the Great Beyond for half a second. Ultimate-Class circles can do damage ranging from being erased from time-and-space and up.
+Intro
+	Magic is an essential aspect to any fantasy game. One of the most interesting parts of magic, is the magic system itself. Not what you can do with it, or how powerful it is, but how it works. This article is about breaking down a small portion of Project Manylands preliminary magic system. Specifically, the mechanics behind the creation of spells.
+
+Circles
+	First, some context must be established. In Project Manylands, most magic will be cast using magic circles. Not magic circles carved in the ground of course, but ones you conjure using your will, imagination, knowledge, and magic power (but we'll get to the lore at a later date). These circles are ranked using a basic system, at least for now. Going from least to most powerful, Low-Class, Medium-Class, High-Class, and Ultimate-Class. Low-Class circles can do damage ranging from a hard punch, to being squashed by a Titan. Medium-Class circles can do damage ranging from being hit in a vital area by a rapier going a significant fraction of the speed of sound, to being the focus of an endgame boss for about five (5) seconds without a healer. High-Class circles can do damage ranging from being hit by a small nuke to being thrust into the Great Beyond for half a second. Ultimate-Class circles can do damage ranging from being erased from time-and-space and up.
+
+Template
+	Now, creating spells. Magic circles are created using a template. Currently, this template has seven (7) spots, not counting subspots (which we'll get into later). Three (3) cardinal spots, or primary spots, and three (3) secondary spots, along with the center-spot (which, again, we'll get into later). These spots can also be described as essential, and non-essential spots. This is because you can create a spell without filling any of the secondary spots, but you absolutely must use every cardinal spot. This is because of the three (3) essential components.
+
+Components
+	Components are the ingredients used in the creation of spells. They fill the spots (aside from the center-spot) and are absolutely essential. You can't bake a cake when you have literally no ingredients (unless you have a spell for that). There are three (3) essential components, matching to the three (3) essential spots. These components are Element, Shape, and Method.
+
+Element:
+	The Element component does exactly as you might think: it dictates the element of the spell. However, elements are not simply fire, water, earth, and wind, although those are some of the more common elements that can be used. Elements range from fire to plasma to even time and space. The element decides the exact effect. A Low-Class fire spell will burn things, while a High-Class space/time spell will freeze your target in time and space.
+
+Shape:
+	The Shape component dictates the form of a spell. This can have wide ranging effects. With a change in this component, your fireball spell will become a firepillar spell. The Shape component can do more than change the look. A ball of fire may set an enemy on fire, but a spear of fire will set your enemy on fire and punch a hole through them. You can also set more the Shape component to be more esoteric. Rare Shape components will allow you to influence your entire line of sight, or in an omni-directional sphere.
+
+Method:
+	The Method component is, to put it bluntly, the most boring and least versatile essential component there is. That is, if you're unimaginative. The Method component dictates the method of delivery. The standard way for this to happen is from your person, usually casting from your hand. However, it also allows you to set magic circles on the ground, perhaps waiting for an unsuspecting enemy, or continually casting a healing buff on your allies. Special components may allow you to do more, if you have the will...
+
+Non-Essential Components:
+	The previous trio were the essential components, the things you must have to create any spell. However, it's secondary components were you can let your imagination run wild. Some secondary components allow you to heal your allies (or your enemies). Some will let you add a secondary element. Some will let you heal your allies while harming your enemies. Some will let you summon an eldritch being from the Great Beyond. Some will let you let you make a cake! (Maybe.)
+
+Subspots and Subcomponents:
+	As the names may suggest, subcomponents are the components that go into subspots. Subspots are spots connected to the cardinal spots. There are three (3) of them per cardinal spot, and just to make things more complicated, one (1) is a primary subspot, and the other two (2) are secondary subspots. The primary subspot is an interesting little thing, as it has all the power of a normal secondary spot, except more specific. Primary subcomponents are rare, but powerful. You can use them to do things like turn your regular fire into literal hellfire, or to turn your water wave spell into holy water, dealing extra damage against the unholy. Secondary subspots and their components are much much less powerful. In fact, they can mostly be used for cosmetic changes. Turn your fire spell into a green fire spell! (That may or may not be literally hellfire.)
+
+Crystal
+	The final component of a magic spell isn't actually a component at all, not like we've been using it. The final spot, the center-spot, is the most important one. In it, you place a power crystal. These are highly rare, and can most often be found in the hearts of highly magical beings. The quality of these crystals varies, and is what determines the class of your spell, along with your own raw power. As such, it determines the base damage or effect of your spell, before all elemental and shape factors are taken into account.
+
+Conclusion
+	The art of crafting spells is as complex as your make it, and as powerful as you know how. A mage may spend an unhealthy amount of time foraging through ruins of long dead civilizations for new components, but they are also the most potentially potent power in the game. Just make sure you don't accidentally sell your soul.
     		</content>
     </article>
 </projects>
