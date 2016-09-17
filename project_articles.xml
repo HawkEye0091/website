@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projects>
 	<MMO category="Thesis or whatever">
-		<title>title of article</title>
+		<title>On the Creation of Magic Spells</title>
 		<author>your name</author>
 		<last updated>date that the subject was written or overwritten</last updated>
 		<summary>what is the subject about</summary>
-		<content>tell me everything and anything you want.</content>
+		<content>
+			Magic is an essential aspect to any fantasy game. One of the most interesting parts of magic, is the magic system itself. Not what you can do with it, or how powerful it is, but how it works. This article is about breaking down a small portion of Project Manylands preliminary magic system. Specifically, the mechanics behind the creation of spells.
+
+    			First, some context must be established. In Project Manylands, most magic will be cast using magic circles. Not magic circles carved in the ground of course, but ones you conjure using your will, imagination, knowledge, and magic power (but we'll get to the lore at a later date). These circles are ranked using a basic system, at least for now. Going from least to most powerful, Low-Class, Medium-Class, High-Class, and Ultimate-Class. Low-Class circles can do damage ranging from a hard punch, to being squashed by a Titan. Medium-Class circles can do damage ranging from being hit in a vital area by a rapier going a significant fraction of the speed of sound, to being the focus of an endgame boss for about five (5) seconds without a healer. High-Class circles can do damage ranging from being hit by a small nuke to being thrust into the Great Beyond for half a second. Ultimate-Class circles can do damage ranging from being erased from time-and-space and up.
+    		</content>
 </projects>
